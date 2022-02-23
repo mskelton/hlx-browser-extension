@@ -8,4 +8,4 @@ button.addEventListener("click", () => {
   })
 })
 
-container.appendChild(button)
+container?.appendChild(button)
