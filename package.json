@@ -1,8 +1,6 @@
 {
   "name": "hlx-browser-extension",
-  "description": "Helpful utilities to manage your Higher Level FX VPS.",
-  "packageManager": "yarn@3.2.0",
-  "author": "Mark Skelton",
-  "license": "ISC",
-  "repository": "github:mskelton/hlx-browser-extension"
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
 }
